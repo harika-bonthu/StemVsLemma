@@ -1,1 +1,1 @@
-# StemVsLemma
+### Example code for Stemming and Lemmatization
